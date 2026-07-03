@@ -1,4 +1,5 @@
 import React from 'react'
+import Use from './Use.jsx'
 
 const App = () => {
   return (
@@ -45,6 +46,7 @@ const App = () => {
          
 
       </form>
+      < Use />
     </div>
   )
 }
